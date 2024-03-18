@@ -1,4 +1,4 @@
-# ACM International Conference on Multimedia
+# Few-Shot Model Agnostic Federated Learning (MindSpore Version)
 
 This is the MindSpore implementation of FSMAFL in the following paper.
 
