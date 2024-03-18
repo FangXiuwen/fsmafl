@@ -2,7 +2,7 @@
 
 This is the MindSpore implementation of FSMAFL in the following paper.
 
-Wenke Huang, Mang Ye, Xiang Gao, Bo Du. Few-Shot Model Agnostic Federated Learning, in ACM MM, 2022.
+Wenke Huang, Mang Ye, Xiang Gao, Bo Du. Few-Shot Model Agnostic Federated Learning (MindSpore Version), in ACM MM, 2022.
 
 # [FSMAFL Description](#contents)
 
